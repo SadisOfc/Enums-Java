@@ -1,4 +1,4 @@
-package main.java.com.sadisxyz.Enums.advanced.ejemplo5;
+package main.java.com.sadisxyz.Enums.middle.ejemplo5;
 
 public enum Month {
     JANUARY(1), FEBRUARY(2),

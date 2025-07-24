@@ -1,4 +1,4 @@
-package main.java.com.sadisxyz.Enums.advanced.ejemplo2;
+package main.java.com.sadisxyz.Enums.middle.ejemplo2;
 
 public class Main {
     public static void main(String[]args){

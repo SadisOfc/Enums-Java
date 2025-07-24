@@ -1,4 +1,4 @@
-package main.java.com.sadisxyz.Enums.advanced.ejemplo2;
+package main.java.com.sadisxyz.Enums.middle.ejemplo2;
 
 public enum Math implements Operation{
     SUM(Double::sum), SUBTRACT((a, b) -> a-b), MULTIPLY((a, b) -> a*b), DIVIDE((a, b) -> a/b);

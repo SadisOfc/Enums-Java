@@ -1,4 +1,4 @@
-package main.java.com.sadisxyz.Enums.advanced.ejemplo3;
+package main.java.com.sadisxyz.Enums.middle.ejemplo3;
 
 public enum Transport implements Promedy{
     CAR(() -> 100),TRAIN(() -> 250),AIRPLANE(() -> 900);

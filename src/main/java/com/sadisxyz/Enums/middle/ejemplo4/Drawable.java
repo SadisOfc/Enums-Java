@@ -1,4 +1,4 @@
-package main.java.com.sadisxyz.Enums.advanced.ejemplo4;
+package main.java.com.sadisxyz.Enums.middle.ejemplo4;
 
 @FunctionalInterface
 public interface Drawable {

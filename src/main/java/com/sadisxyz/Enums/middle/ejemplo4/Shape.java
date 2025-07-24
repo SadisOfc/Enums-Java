@@ -1,4 +1,4 @@
-package main.java.com.sadisxyz.Enums.advanced.ejemplo4;
+package main.java.com.sadisxyz.Enums.middle.ejemplo4;
 
 public enum Shape implements Drawable{
     CIRCLE(() -> System.out.println("Se ha dibujado un Círculo")),
